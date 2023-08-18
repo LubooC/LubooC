@@ -2,11 +2,8 @@
 ---
 ### About me
 
--  `PHP开发` && `Web开发` && `node.js`
-- QQ：`1262543022`
-- Team：`X`
-- Blog： http://119.29.113.31/
-- 公众号：Luobook科技社
+-  `N开发` && `Web开发` && `node.js`
+- TG：`[X](https://t.me/Luobook666)`
 
 [![LubooC's github stats](https://github-readme-stats.vercel.app/api?username=LubooC&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
